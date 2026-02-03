@@ -240,12 +240,6 @@ If you use this script in your research, please acknowledge:
 
 ---
 
-## License
-
-[Add your license information here]
-
----
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
